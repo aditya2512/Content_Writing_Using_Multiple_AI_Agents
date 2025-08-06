@@ -16,6 +16,7 @@ This project is a Jupyter notebook-based application for generating high-quality
 - OpenAI / Transformers
 - Jupyter Notebook
 - LangChain (optional for advanced workflows)
+- Crew AI 
 
 ##  File Structure
 
