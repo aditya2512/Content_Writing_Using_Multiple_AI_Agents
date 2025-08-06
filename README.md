@@ -1,7 +1,4 @@
 
-
-# Define README content
-readme_content = """
 # AI-Powered Content Writer 📝🤖
 
 This project is a Jupyter notebook-based application for generating high-quality content using Large Language Models (LLMs). It is designed to help writers, marketers, and developers quickly create article drafts, blog content, and marketing copy.
